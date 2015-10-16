@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_new_selfie">New Selfie</string>
+    <string name="action_delete_all_selfies">Delete All</string>
+
+    <string name="dialog_delete_all_selfies">Delete all selfies?</string>
+    <string name="dialog_delete_selfie">Delete this selfie?</string>
+    <string name="dialog_yes">Confirm</string>
+    <string name="dialog_no">Cancel</string>
+    
+    <string name="notification_message">Selfie notification</string>
+</resources>
